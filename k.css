@@ -1,0 +1,21 @@
+ .head {
+     color: red;
+     text-align: center;
+     width: 100vw;
+ }
+ 
+ .p {
+     background-color: green;
+     list-style-image: url("https://www.istockphoto.com/photo/man-using-mobile-online-banking-and-payment-digital-marketing-finance-and-banking-gm1195693419-340887610?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%");
+ }
+ 
+ .font {
+     font-size: 20px;
+ }
+ 
+ .c {
+     background-color: green;
+     height: 100vh;
+     font-size: 120px;
+     font-style: ;
+ }
